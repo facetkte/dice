@@ -1,4 +1,4 @@
-
+function next() {
 
   var randomNumber1 = Math.floor(Math.random() * 6) + 1; //1-6
 
@@ -19,6 +19,7 @@
   } else {
     document.querySelector("h1").innerHTML = ("Player 2 Win🚩");
   }
+};
 
 $("button").click(function() {
   next();
