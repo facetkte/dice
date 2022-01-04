@@ -1,5 +1,5 @@
 # dice
-https://facetkte.github.io/test/
+https://facetkte.github.io/dice/
 
 # Copyright©
 https://www.appbrewery.com/
